@@ -1,0 +1,4 @@
+CPU: 4 cores - Ryzen 3 3200G
+Chipset: B450
+GPU: Vegas 8
+Rede: Realtek PCIe GbE Family Controller
