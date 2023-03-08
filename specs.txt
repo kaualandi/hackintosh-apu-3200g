@@ -2,3 +2,9 @@ CPU: 4 cores - Ryzen 3 3200G
 Chipset: B450
 GPU: Vegas 8
 Rede: Realtek PCIe GbE Family Controller
+
+Type:         MacPro7,1
+Serial:       F5KFMEZCP7QM
+Board Serial: F5K117303GUK3F7A8
+SmUUID:       C1195395-9D70-4D09-93E2-A9372B0F70B4
+Apple ROM:    60FEC580BDD2
